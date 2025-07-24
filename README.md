@@ -90,3 +90,8 @@
 If you're working on anything in **AI, ML, Full Stack, or Generative AI** — let's collaborate!  
 I'm always open to building smart, ethical, and impactful solutions.
 
+
+
+
+
+
