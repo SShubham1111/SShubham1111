@@ -1,8 +1,11 @@
-<h2 align="left">Hi 👋, I'm S Shubham — a Passionate Developer & AI Explorer Building the Future of Intelligent Systems</h2>
-
-
-![Coding Pixel Jeff](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k1Z2lhajhjMWY1eDFhaWc1cGlrejA3bXlhd2w2dGU0dHFoMmFyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif)
-
+<div align="left" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div>
+    <h2>Hi 👋, I'm S Shubham — a Passionate Developer & AI Explorer Building the Future of Intelligent Systems</h2>
+  </div>
+  <div>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k1Z2lhajhjMWY1eDFhaWc1cGlrejA3bXlhd2w2dGU0dHFoMmFyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" alt="Coding Pixel Jeff" width="200" />
+  </div>
+</div>
 
 - 🎓 **B.Tech in Computer Science Engineering**  
   Bhilai Institute of Technology, Raipur — 8.27 CGPA (2021–2025)
