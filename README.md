@@ -5,7 +5,7 @@
   Bhilai Institute of Technology, Raipur — 8.27 CGPA (2021–2025)
 
 - 🧠 Currently Upskilling In:
-  - **Data Science with Generative AI** (PW Skills x PwC)
+  - **Data Science with Generative AI** 
   - AI/ML with Python, Deep Learning (TensorFlow, PyTorch), NLP, LLMs (GPT, BERT)
 
 - 📚 Coursework includes:  
