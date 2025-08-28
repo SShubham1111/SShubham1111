@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="35" alt="GitHub" />
   </a>
   <a href="" target="_blank">
-    <img src="https://img.shields.io/v1?message=Resume&logo=adobeacrobatreader&color=FF0000&style=for-the-badge" height="35" alt="Resume" />
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=adobeacrobatreader&color=FF0000&style=for-the-badge" height="35" alt="Resume" />
   </a>
 </div>
 
