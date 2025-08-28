@@ -60,20 +60,24 @@
 
 ### 📫 Connect with Me
 
-<div align="left">
+<div align="center">
   <a href="mailto:sshubham22062003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
+  <span style="margin: 0 10px;"></span>
   <a href="https://www.linkedin.com/in/s-shubham-317359229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
+  <span style="margin: 0 10px;"></span>
   <a href="https://github.com/SShubham1111" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
   </a>
+  <span style="margin: 0 10px;"></span>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="35" alt="Resume" />
   </a>
 </div>
+
 
 
 
