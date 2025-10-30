@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm S Shubham — a Passionate Developer & AI Explorer Building the Future of Intelligent Systems</h2>
 
 
-- 🎓 **B.Tech in Computer Science Engineering**  
+- 🎓 **B.Tech(Honors) in Computer Science Engineering**  
   Bhilai Institute of Technology, Raipur — 8.27 CGPA (2021–2025)
 
 - 🧠 Currently Upskilling In:
