@@ -70,7 +70,7 @@
   <a href="https://github.com/SShubham1111" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://drive.google.com/file/d/18L6vvo3pTYA4o-gLDg74bTE9dwU0cety/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="35" alt="Resume" />
   </a>
 </div>
