@@ -16,23 +16,33 @@
 ---
 
 ### 🛠️ Languages, Tools & Frameworks
+### 🛠️ Languages, Tools & Frameworks
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
+  <!-- Core Language -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img width="12" />
+
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img width="12" />
+
+  <!-- Data Science Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
+  <img width="12" />
+
+  <!-- Deep Learning -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
+  <img width="12" />
+
+  <!-- GenAI / NLP -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" alt="Hugging Face" />
 </div>
 
 ---
@@ -54,7 +64,8 @@
 - Prompt-based Image and Caption Generator  
 - Climate Visibility Prediction System  
 - Spam Detection System  
-- Sign Language Detection System  
+- Sign Language Detection System
+- Customized ChatBot 
 
 Each project focuses on applying data-driven and AI-based approaches to practical problem statements.
 
@@ -67,14 +78,6 @@ Each project focuses on applying data-driven and AI-based approaches to practica
 - Time Series Analysis & Anomaly Detection  
 ---
 
-### 💼 Soft Skill and communication highlights
-
-- 🔹 Boosted data reporting efficiency as School Profiling Executive  
-- 🔹 Led logistics for 1000+ attendees at TECHFEST & RAASGARBA events 
-- 🔹 Involved in NSS camp 
-- 🔹 Mentored students, improving peer academic scores by 20%
-
----
 
 ### 📫 Connect with Me
 
