@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm S Shubham — a Passionate Developer & AI Explorer Building the Future of Intelligent Systems</h2>
+<h2 align="left">Hi 👋, I'm S. Shubham - an Aspiring Data Scientist & Generative AI Practitioner</h2>
 
 
 - 🎓 **B.Tech(Honors) in Computer Science Engineering**  
@@ -37,16 +37,34 @@
 
 ---
 
-
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SShubham1111&layout=compact&theme=dracula" height="150" />
 </div>
 
+
+---
+
+### 🚀 Featured Projects
+- Named Entity Recognition (NER) System  
+- Custom ChatGPT System  
+- GenAI Alexa-like Assistant  
+- Prompt-based Image and Caption Generator  
+- Climate Visibility Prediction System  
+- Spam Detection System  
+- Sign Language Detection System  
+
+Each project focuses on applying data-driven and AI-based approaches to practical problem statements.
+
+---
+### 📚 Academic & Technical Exposure
+- Data Science & Data Analysis  
+- Machine Learning & Deep Learning  
+- Natural Language Processing (NLP)  
+- Generative AI (LLMs, Prompt Engineering)  
+- Time Series Analysis & Anomaly Detection  
 ---
 
 ### 💼 Soft Skill and communication highlights
@@ -76,22 +94,27 @@
 </div>
 
 
+### 📑 Research & Publications
+- *Greenhouse Gas Emission Prediction Using LSTM*  
+- *Time Series Forecasting and Anomaly Detection*  
+- *Load Balancer Implementation*  
+
+Published in **International Journal of Research Publication and Reviews (IJRPR)**.
 
 
 
 ### 🧠 Currently Learning
 
-- Generative AI Tools (LangChain, Hugging Face, GPT)
-- Deep Learning (ANN, CNN, LSTM)
-- NLP Techniques & Transformers
-- Advanced DSA with Java
-- Cloud Deployment for AI Projects
+- Advanced Machine Learning & Deep Learning techniques  
+- NLP with Transformers  
+- Generative AI tools (LangChain, Hugging Face, LLMs)  
+- Model evaluation and deployment fundamentals  
 
 ---
 
 ### 🚀 Let’s Build Together
 
-If you're working on anything in **AI, ML, Full Stack, or Generative AI** — let's collaborate!  
+If you're working on anything in **AI, ML or GenAI** — let's collaborate!  
 I'm always open to building smart, ethical, and impactful solutions.
 
 
