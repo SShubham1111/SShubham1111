@@ -46,8 +46,6 @@
 
 ---
 
-
-
 ### 🚀 Featured Projects
 - Named Entity Recognition (NER) System  
 - Custom ChatGPT System  
@@ -58,27 +56,18 @@
 - Sign Language Detection System
 - Customized ChatBot 
 
-Each project focuses on applying data-driven and AI-based approaches to practical problem statements.
-
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SShubham1111&layout=compact&theme=dracula" height="150" />
-</div>
+### 🔹 Core Competencies
 
-
----
-
----
-### 📚 Academic & Technical Exposure
 - Data Science & Data Analysis  
-- Machine Learning & Deep Learning  
+- Machine Learning (Supervised Learning, Feature Engineering, Model Evaluation)  
+- Deep Learning (Neural Networks, CNNs)  
 - Natural Language Processing (NLP)  
 - Generative AI (LLMs, Prompt Engineering)  
 - Time Series Analysis & Anomaly Detection  
----
 
+---
 
 ### 📫 Connect with Me
 
@@ -97,6 +86,7 @@ Each project focuses on applying data-driven and AI-based approaches to practica
   </a>
 </div>
 
+---
 
 ### 📑 Research & Publications
 - *Greenhouse Gas Emission Prediction Using LSTM*  
@@ -105,12 +95,12 @@ Each project focuses on applying data-driven and AI-based approaches to practica
 
 Published in **International Journal of Research Publication and Reviews (IJRPR)**.
 
-
+---
 
 ### 🚀 Let’s Build Together
 
 If you're working on anything in **AI, ML or GenAI** — let's collaborate!  
 I'm always open to building smart, ethical, and impactful solutions.
 
-
+---
 
