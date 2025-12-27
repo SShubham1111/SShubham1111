@@ -16,7 +16,6 @@
 ---
 
 ### 🛠️ Languages, Tools & Frameworks
-### 🛠️ Languages, Tools & Frameworks
 
 <div align="left">
   <!-- Core Language -->
@@ -47,15 +46,7 @@
 
 ---
 
----
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SShubham1111&layout=compact&theme=dracula" height="150" />
-</div>
-
-
----
 
 ### 🚀 Featured Projects
 - Named Entity Recognition (NER) System  
@@ -68,6 +59,16 @@
 - Customized ChatBot 
 
 Each project focuses on applying data-driven and AI-based approaches to practical problem statements.
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SShubham1111&layout=compact&theme=dracula" height="150" />
+</div>
+
+
+---
 
 ---
 ### 📚 Academic & Technical Exposure
@@ -105,15 +106,6 @@ Each project focuses on applying data-driven and AI-based approaches to practica
 Published in **International Journal of Research Publication and Reviews (IJRPR)**.
 
 
-
-### 🧠 Currently Learning
-
-- Advanced Machine Learning & Deep Learning techniques  
-- NLP with Transformers  
-- Generative AI tools (LangChain, Hugging Face, LLMs)  
-- Model evaluation and deployment fundamentals  
-
----
 
 ### 🚀 Let’s Build Together
 
